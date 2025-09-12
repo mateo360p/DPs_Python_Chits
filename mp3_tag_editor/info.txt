@@ -1,1 +1,2 @@
-This uses the 'eyed3' lib.
+v1.0
+Libs: [eyed3]

@@ -1,0 +1,3 @@
+output.accept(DPsBlocks.POLISHED_GRANITE_WALL);
+output.accept(DPsBlocks.POLISHED_DIORITE_WALL);
+output.accept(DPsBlocks.POLISHED_ANDESITE_WALL);

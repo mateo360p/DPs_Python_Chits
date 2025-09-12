@@ -1,1 +1,2 @@
-This uses the 'pyinstaller' lib!
+v1.0
+Libs: [tkinter, pyinstaller]
