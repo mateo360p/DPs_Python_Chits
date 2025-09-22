@@ -1,6 +1,0 @@
-   public static final DeferredBlock<Block> POLISHED_GRANITE_WALL = registerBlockItem("polished_granite_wall",
-         (properties) -> new WallBlock(properties));
-   public static final DeferredBlock<Block> POLISHED_DIORITE_WALL = registerBlockItem("polished_diorite_wall",
-         (properties) -> new WallBlock(properties));
-   public static final DeferredBlock<Block> POLISHED_ANDESITE_WALL = registerBlockItem("polished_andesite_wall",
-         (properties) -> new WallBlock(properties));

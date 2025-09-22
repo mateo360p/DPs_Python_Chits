@@ -1,5 +1,9 @@
 {
     "python.analysis.extraPaths": [
         "./database/gen"
+    ],
+    "git.autoRepositoryDetection" : true,
+    "git.repositoryScanIgnoredFolders": [
+        "./_export"
     ]
 }
